@@ -1,4 +1,4 @@
-### python implementation based on GenNet
+### python implementation based on GenNet (Hilten et al 2020)
 import os
 import sys
 import warnings
